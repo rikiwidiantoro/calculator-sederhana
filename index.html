@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator Sederhana</title>
+
+    <!-- fontawesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+    <!-- css -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsive.css">
+</head>
+<body>
+    
+    <!-- header -->
+        <div class="header">
+            <h1>Tugas Individu Calculator</h1>
+        </div>
+        <hr>
+    <!-- header -->
+
+
+    <!-- isi -->
+    <div class="container">
+        <!-- layout kalkulator -->
+        <div class="layout-kalkulator">
+            <div class="layar">
+                <span class="hasil"></span>
+            </div>
+            <div class="tombol-row">
+                <div class="tombol">7</div>
+                <div class="tombol">8</div>
+                <div class="tombol">9</div>
+                <div class="tombol hapus">Hapus</div>
+            </div>
+            <div class="tombol-row">
+                <div class="tombol">4</div>
+                <div class="tombol">5</div>
+                <div class="tombol">6</div>
+                <div class="tombol operator">+</div>
+                <div class="tombol operator">*</div>
+            </div>
+            <div class="tombol-row">
+                <div class="tombol">1</div>
+                <div class="tombol">2</div>
+                <div class="tombol">3</div>
+                <div class="tombol operator">-</div>
+                <div class="tombol operator">/</div>
+            </div>
+            <div class="tombol-row">
+                <div class="tombol negatif">+/-</div>
+                <div class="tombol">0</div>
+                <div class="tombol samadengan">=</div>
+            </div>
+        </div>
+        <!-- layout kalkulator -->
+    
+        <!-- tabel history -->
+        <table class="history" border="1" cellpadding="30" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Angka pertama</th>
+                    <th>Aksi</th>
+                    <th>Angka kedua</th>
+                    <th>Jumlah</th>
+                </tr>
+            </thead>
+            <tbody>
+    
+            </tbody>
+        </table>
+        <!-- tabel history -->
+    </div>
+    <!-- isi -->
+
+
+    <!-- footer -->
+    <hr>
+    <div class="footer">
+        <div class="judul">
+            <h2>Digital Talent Scholarship - Progate</h2>
+            <h5>Riki Widiantoro</h5>
+            <marquee behavior="" direction=""><h5>Bungkal, Ponorogo, Jawa Timur, Indonesia</h5></marquee>    
+        </div>
+        <div class="sosmed">
+            <h3>Sosial Media</h3>
+            <p>
+                <i class="fab fa-github"></i><a href="https://github.com/rikiwidiantoro" target="_blank"> rikiwidiantoro</a>
+            </p>
+            <p>
+                <i class="fab fa-linkedin-in"></i><a href="https://id.linkedin.com/in/rikiwidiantoro" target="_blank"> Riki Widiantoro</a>
+            </p>
+            <p>
+                <i class="fab fa-instagram"></i><a href="https://www.instagram.com/karya.rw/" target="_blank"> karya.rw</a>
+            </p>
+        </div>
+        <div class="alat">
+            <h3>Keterangan :</h3>
+            <p>tugas ini dibuat dengan bahasa markup HTML & CSS, bahasa pemrograman JavaScript dan library jQuery serta menerapkan Local Storage pada Browser untuk menyimpan history dan tentunya responsive dengan media query. jika ingin mendownload atau melihat code dapat langsung di repository github saya di link berikut, jangan lupa follow ya...</p>
+            <p>link : <a href="https://github.com/rikiwidiantoro" target="_blank">repository calculator</a></p>
+        </div>
+    </div>
+    <!-- footer -->
+
+
+    <!-- jquery cdn -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- javascript -->
+    <script src="script.js"></script>
+</body>
+</html>
