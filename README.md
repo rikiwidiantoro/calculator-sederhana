@@ -1,2 +1,7 @@
 # calculator-sederhana
-tugas ini dibuat dengan bahasa markup HTML &amp; CSS, bahasa pemrograman JavaScript dan library jQuery serta menerapkan Local Storage pada Browser untuk menyimpan history dan tentunya responsive dengan media query.
+tugas ini dibuat dengan : 
+1. bahasa markup HTML dan CSS 
+2. bahasa pemrograman JavaScript 
+3. library jQuery 
+4. menerapkan Local Storage pada Browser untuk menyimpan history 
+5. responsive website dengan media query.
