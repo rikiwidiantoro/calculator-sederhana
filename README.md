@@ -1,7 +1,11 @@
 # calculator-sederhana
-tugas ini dibuat dengan : 
+Bootcamp Digital Talent Scholarship - Progate
+Frontend Developer 
+
+tugas membuat calculator sederhana
+dibuat dengan : 
 1. bahasa markup HTML dan CSS 
 2. bahasa pemrograman JavaScript 
-3. library jQuery 
+3. DOM (Document Object Model) JavaScript
 4. menerapkan Local Storage pada Browser untuk menyimpan history 
-5. responsive website dengan media query.
+5. responsive website dengan CSS media queries.
