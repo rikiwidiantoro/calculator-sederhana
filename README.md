@@ -1,8 +1,10 @@
 # calculator-sederhana
 Bootcamp Digital Talent Scholarship - Progate
+
 Frontend Developer 
 
 tugas membuat calculator sederhana
+
 dibuat dengan : 
 1. bahasa markup HTML dan CSS 
 2. bahasa pemrograman JavaScript 
