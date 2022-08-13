@@ -3,7 +3,7 @@ Bootcamp Digital Talent Scholarship - Progate
 
 Frontend Developer 
 
-tugas membuat calculator sederhana
+tugas membuat aplikasi calculator sederhana berbasis web
 
 dibuat dengan : 
 1. bahasa markup HTML dan CSS 
